@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omee-69" alt="omee-69" /></a> </p>
 
-- 🌱 I’m currently learning **in Vidyalankar Institute of Technology**
+- 🌱 I’m currently studying **in Vidyalankar Institute of Technology**
 
 - 📫 How to reach me **yewaleom394@gmail.com**
 
