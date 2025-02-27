@@ -67,13 +67,6 @@
 ---
 
 
-
----
-
-
-
----
-
 <!-- FUN BADGES -->
 ### 🚀 Fun Badges  
 <p align="center">
