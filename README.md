@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Passionate Frontend Developer | IT Engineering Student | Lifelong Learner</h3>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D8EB&center=true&width=435&lines=Frontend+Developer;Java+%7C+C+%7C+JavaScript;Learning+Web+Development;Always+Exploring+New+Techs!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D8EB&center=true&width=435&lines=Frontend+Developer;Java+%7C+C+%7C+JavaScript%7C+Python;Learning+Web+Development;Always+Exploring+New+Techs!" />
 </p>  
 
 ---
@@ -14,9 +14,9 @@
 <!-- ABOUT ME -->
 ### 🏆 About Me  
 - 🎓 I’m an **IT Engineering student** at **Vidyalankar Institute of Technology, Mumbai**.  
-- 🌱 Currently learning **Java, C, and Web Development**.  
+- 🌱 Currently learning **Java, C, Python**, and **Web Development**.  
 - 💡 Passionate about **building cool web apps** and **solving problems**.  
-- 💬 Ask me about **Java, Frontend Development, and DSA**.  
+- 💬 Ask me about **Java, Python, Frontend Development, and DSA**.  
 - 📫 Reach me at: **[yewaleom394@gmail.com](mailto:yewaleom394@gmail.com)**.  
 
 ---
@@ -40,7 +40,7 @@
 <!-- TECH STACK -->
 ### ⚙️ Tech Stack & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,figma,git,github,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,nodejs,figma,git,github,c,cpp" />
 </p>  
 
 ---
@@ -66,13 +66,4 @@
 
 ---
 
-
-<!-- FUN BADGES -->
-### 🚀 Fun Badges  
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/uses-html.svg" />
-  <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg" />
-</p>  
 
