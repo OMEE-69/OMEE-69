@@ -15,8 +15,7 @@
 ### 🏆 About Me  
 - 🎓 I’m an **IT Engineering student** at **Vidyalankar Institute of Technology, Mumbai**.  
 - 🌱 Currently learning **Java, C, Python**, and **Web Development**.  
-- 💡 Passionate about **building cool web apps** and **solving problems**.  
-- 💬 Ask me about **Java, Python, Frontend Development, and DSA**.  
+- 💡 Passionate about **building cool web apps** and **solving problems**.   
 - 📫 Reach me at: **[yewaleom394@gmail.com](mailto:yewaleom394@gmail.com)**.  
 
 ---
