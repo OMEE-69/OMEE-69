@@ -21,6 +21,8 @@
 ---
 
 <!-- CONNECT WITH ME -->
+
+<!-- CONNECT WITH ME -->
 ### 🌍 Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/om-yewale-744905328/" target="_blank">
@@ -32,14 +34,16 @@
   <a href="https://leetcode.com/u/omee_codes/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-</p>  
+  <a href="https://www.geeksforgeeks.org/user/yewalecx7w" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
----
 
 <!-- TECH STACK -->
 ### ⚙️ Tech Stack & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,nodejs,figma,git,github,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,figma,git,github,c,cpp" />
 </p>  
 
 ---
