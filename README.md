@@ -3,18 +3,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
   Hey there, I'm Om Yewale!
 </h1>  
-<h3 align="center">🚀 Passionate Frontend Developer | IT Engineering Student | Lifelong Learner</h3>  
+ 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D8EB&center=true&width=435&lines=Frontend+Developer;Java+%7C+C+%7C+JavaScript%7C+Python;Learning+Web+Development;Always+Exploring+New+Techs!" />
 </p>  
 
----
-
 <!-- ABOUT ME -->
 ### 🏆 About Me  
 - 🎓 I’m an **IT Engineering student** at **Vidyalankar Institute of Technology, Mumbai**.  
-- 🌱 Currently learning **Java, C, Python**, and **Web Development**.  
+- 🌱 Currently learning **Java, Python**, and **Web Development**.  
 - 💡 Passionate about **building cool web apps** and **solving problems**.   
 - 📫 Reach me at: **[yewaleom394@gmail.com](mailto:yewaleom394@gmail.com)**.  
 
