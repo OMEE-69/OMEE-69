@@ -1,28 +1,21 @@
-<!-- HEADER -->
-<h1 align="center">  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
-  Hey there, I'm Om Yewale!
-</h1>  
- 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D8EB&center=true&width=435&lines=Frontend+Developer;Java+%7C+C+%7C+JavaScript%7C+Python;Learning+Web+Development;Always+Exploring+New+Techs!" />
-</p>  
 
 <!-- ABOUT ME -->
-### 🏆 About Me  
-- 🎓 I’m an **IT Engineering student** at **Vidyalankar Institute of Technology, Mumbai**.  
-- 🌱 Currently learning **Java, Python**, and **Web Development**.  
-- 💡 Passionate about **building cool web apps** and **solving problems**.   
-- 📫 Reach me at: **[yewaleom394@gmail.com](mailto:yewaleom394@gmail.com)**.  
+<h1 align="center"> About Me</h1>
+
+<ul>
+  <li>👋 Hey there! I'm <strong>Om Yewale</strong>, an  IT Engineering student at <strong>Vidyalankar Institute of Technology, Mumbai</strong>.</li>
+  <li>💻 Currently learning and working with <strong>Java</strong>, <strong>Python</strong>, and <strong>Web Development</strong>.</li>
+  <li>🤖 Exploring the world of <strong>Artificial Intelligence & Machine Learning</strong>.</li>
+  <li>🛠 Passionate about building cool web apps and solving real-world problems through code.</li>
+  <li>📫 Reach me at: <a href="mailto:yewaleom394@gmail.com">yewaleom394@gmail.com</a></li>
+</ul>
 
 ---
 
 <!-- CONNECT WITH ME -->
+<h1 align="center">🌐 Connect With Me</h1>
 
-<!-- CONNECT WITH ME -->
-### 🌍 Connect With Me  
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/om-yewale-744905328/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -37,11 +30,14 @@
   </a>
 </p>
 
+---
 
 <!-- TECH STACK -->
-### ⚙️ Tech Stack & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,figma,git,github" />
-</p>  
+<h1 align="center">🛠 Tech Stack & Tools</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,figma" alt="Tech Stack" />
+</p>
 
 ---
+
