@@ -36,7 +36,7 @@
 <h1 align="center">🛠 Tech Stack & Tools</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,figma,firebase" alt="Tech Stack" />
 </p>
 
 ---
