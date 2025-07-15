@@ -13,7 +13,7 @@
 ---
 
 <!-- CONNECT WITH ME -->
-<h1 align="center">🌐 Connect With Me</h1>
+<h1 align="center"> Connect With Me</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/om-yewale-744905328/" target="_blank">
@@ -29,15 +29,4 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
-
----
-
-<!-- TECH STACK -->
-<h1 align="center">🛠 Tech Stack & Tools</h1>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,figma,firebase" alt="Tech Stack" />
-</p>
-
----
 
